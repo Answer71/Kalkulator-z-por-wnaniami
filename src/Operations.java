@@ -6,7 +6,7 @@ public class Operations {
      return a + b;
      else if (a < b)
      return a * b;
-     else if (a == b);
-     return a*a + b*b;
+     else
+     return a*a;
  }
 }
